@@ -10,4 +10,4 @@ Personajul din joc este un fermier aflat in mijlocul unei paduri. Acesta este at
 
 Fermierul are doar trei vieti, asa ca trebuie sa fie foarte atent si rapid pentru a nu lasa niciun zombie sa se atinga de el.
 
-Pe jos pot aparea perk-uri, pe care jucatorul le poate folosi. Primul este o inima, care in cazul in care fermierul a pierdut vieti ii restituie una din ele. Celalalt perk permite fiermierului sa omoare orice zombie instant in momentul in care acesta il atinge.
+Pe jos pot aparea perk-uri, pe care jucatorul le poate folosi. Primul este o inima, care in cazul in care fermierul a pierdut vieti ii restituie una din ele. Celalalt perk permite fermierului sa omoare orice zombie instant in momentul in care acesta il atinge.
