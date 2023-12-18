@@ -14,4 +14,4 @@ Pe jos pot aparea perk-uri, pe care jucatorul le poate folosi. Primul este o ini
 
 ![Poza_Meniu](https://github.com/Miriapodel/Slaughter-Joc/blob/main/slaughter.png)
 
-![Poza_Meniu](https://github.com/Miriapodel/Slaughter-Joc/blob/main/slaughter2.png)
+![Poza_Joc](https://github.com/Miriapodel/Slaughter-Joc/blob/main/slaughter2.png)
